@@ -22,7 +22,6 @@ class MyApp extends StatelessWidget {
         fontFamily: GoogleFonts.montserrat().fontFamily,
         textTheme: GoogleFonts.montserratTextTheme(),
       ),
-      
       home: HomeScreen(),
     );
   }
